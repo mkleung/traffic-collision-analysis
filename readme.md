@@ -19,3 +19,22 @@ This project aims to analyze road accident data from 2017-2022 to gain insights 
 # EDA Report
 
 (Under construction)
+
+
+# Traffic Collision Application
+
+To install some dependencies first
+```
+pip install joblib
+```
+
+
+To the the application, use terminal
+
+```
+cd/traffic_collision_app
+
+python app.py
+
+Go to http://127.0.0.1:5000
+```

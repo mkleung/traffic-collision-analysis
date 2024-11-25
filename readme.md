@@ -1,27 +1,41 @@
-# Project Overview
+# Traffic Collision Data Analysis and Prediction
 
-This project aims to analyze road accident data from 2017-2022 to gain insights into the factors contributing to accidents, identify patterns, and propose data-driven recommendations for improving road safety. The dataset used in this project contains information about various aspects of road accidents, such as location, time, weather conditions, and severity.
+## Abstract
+This project aims to analyze road accident data from 2017-2023 to gain insights into the factors contributing to accidents, identify patterns, and propose data-driven recommendations for improving road safety. The dataset used in this project contains information about various aspects of road accidents, such as location, time, weather conditions, and severity.
 
-# Data Sources
+## Table of Contents
 
-- *Ottawa Collision Data*: Historical records of traffic collisions in Ottawa [source](https://open.ottawa.ca/datasets/ottawa::traffic-collision-data/about)
-- *Fuel Prices*: Weekly prices since 1990 [source](https://www.ontario.ca/motor-fuel-prices/)
+1.   Data Import and Description
+2.   Data Preprocessing
+3.   Exploratory Data Analysis and Visualization
+4.   High traffic detection using Apriori
+6.   Collision Prediction using Logistic Regression, decision tree and random forest
+7.   Comparison and Results
+8.   Demo Application
+8.   Conclusion
+
+## Dataset Overview
+- **Source:** https://open.ottawa.ca/datasets/ottawa::traffic-collision-data/about
+- **Size:** 74,613 rows, 29 columns
+- **Date Range:** 2017-2023
+- **Format:** CSV
+- **Copyright:** Open Data Licence Version 2.0 (worldwide, royalty-free, perpetual, non-exclusive licence to copy, modify, publish, translate, adapt and distribute
 
 
-# Technology Used
+## Goal of project
+- **Use Case:** Predicting Traffic Collision
+- **Industry:** Transportation Safety and Traffic management
+-  **Users:** City planners, Law enforcement, General public, Cyclists
+- **Result:** Develop an application that can predict collision probability from a user input location or a planned route (tentative).
 
-- *Python*: The main coding language
-- *Pandas*: Data manipulation and analysis
-- *Matplotlib & Seaborn*: Data Visualization and Graphs
-- *Scikit-learn*: Machine learning models
-- *Jupyter Notebook*
 
-# EDA Report
+## EDA Report
 
 (Under construction)
 
 
-# Traffic Collision Application
+## Traffic Collision Application
+
 
 To install some dependencies first
 ```

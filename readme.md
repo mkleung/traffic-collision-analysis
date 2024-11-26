@@ -7,12 +7,10 @@ This project aims to analyze road accident data from 2017-2023 to gain insights 
 
 1.   Data Import and Description
 2.   Data Preprocessing
-3.   Exploratory Data Analysis and Visualization
-4.   High traffic detection using Apriori
-6.   Collision Prediction using Logistic Regression, decision tree and random forest
+3.   Exploratory Data Analysis
+5.   Data Analysis using Apriori
+6.   Collision Prediction using Decision Tree and Random Forest
 7.   Comparison and Results
-8.   Demo Application
-8.   Conclusion
 
 ## Dataset Overview
 - **Source:** https://open.ottawa.ca/datasets/ottawa::traffic-collision-data/about

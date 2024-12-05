@@ -29,10 +29,18 @@ This project aims to analyze road accident data from 2017-2023 to gain insights 
 -  **Users:** City planners, Law enforcement, General public, Cyclists
 - **Result:** Develop an application that can predict collision probability from a user input location or a planned route (tentative).
 
+## Approach
+
+![Approach](img/approach.png)
 
 ## EDA Report
 
 (Under construction)
+
+
+## Results
+
+![Results](img/results.png)
 
 
 ## Traffic Collision Application

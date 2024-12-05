@@ -11,9 +11,6 @@ This project aims to analyze road accident data from 2017-2023 to gain insights 
 4.  Classification models
 5.  Comparison and Results
 
-# Approach
-
-![Data Visualization](images/approach.png)
 
 ## Dataset Overview
 - **Source:** https://open.ottawa.ca/datasets/ottawa::traffic-collision-data/about
@@ -35,7 +32,15 @@ This project aims to analyze road accident data from 2017-2023 to gain insights 
 
 ## EDA Report
 
-(Under construction)
+Histogram
+
+![Approach](img/histogram.png)
+
+
+Correlation Matrix
+
+![Approach](img/heatmap.png)
+
 
 
 ## Results
